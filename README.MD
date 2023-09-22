@@ -19,6 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmarAM&size_weight=0.5&count_weight=0.5)
 
-#### Certificados: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1M00DvKlwjmvs1INkCbgeZX5_CaUVYtor)
+#### Certificados: 
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1M00DvKlwjmvs1INkCbgeZX5_CaUVYtor)
 
 Sou um estudante buscando desenvolver/criar projetos tanto para aprendizado como tambem para minha Área Profissional
