@@ -2,7 +2,7 @@
 ###### **(Esse perfil ainda e novo)**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmar-augusto-martins-62b3a9289/)
-<a href = "mailto: edmar.augusto02@gmail.com"><img width="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fgmail-new-icon-logo-vector-svg-pdf-ai-eps-cdr-free-download-16539.html&psig=AOvVaw0BRqw7Oo-AhXCTVUpGb3ee&ust=1695509084272000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNipztOlv4EDFQAAAAAdAAAAABAE"></a>
+<div><a href = "mailto: edmar.augusto02@gmail.com"><img width="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fgmail-new-icon-logo-vector-svg-pdf-ai-eps-cdr-free-download-16539.html&psig=AOvVaw0BRqw7Oo-AhXCTVUpGb3ee&ust=1695509084272000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNipztOlv4EDFQAAAAAdAAAAABAE"></a></div>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdmarAM)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ed_a_martins?utm_source=qr&igshid=MThlNWY1MzQwNA==)
 
