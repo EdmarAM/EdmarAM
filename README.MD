@@ -19,4 +19,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmarAM&size_weight=0.5&count_weight=0.5)
 
-Sou um estudante buscando desenvolver/criar projetos tanto para aprendizado como tambem para minha vida profissional
+Sou um estudante buscando desenvolver/criar projetos tanto para aprendizado como tambem para minha Área Profissional
