@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edmar.augusto02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdmarAM)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ed_a_martins?utm_source=qr&igshid=MThlNWY1MzQwNA==)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1M00DvKlwjmvs1INkCbgeZX5_CaUVYtor)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1M00DvKlwjmvs1INkCbgeZX5_CaUVYtor)
 
 ![Edmar A. GitHub stats](https://github-readme-stats.vercel.app/api?username=EdmarAM&show_icons=true&theme=radical)
 
