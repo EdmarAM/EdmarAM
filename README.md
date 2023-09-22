@@ -1,4 +1,3 @@
-
 ### Ola Eu sou Edmar Augusto ✌️ 
 ###### **(Esse perfil ainda e novo)**
 
